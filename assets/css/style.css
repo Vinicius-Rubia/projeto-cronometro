@@ -1,0 +1,32 @@
+body {
+    background-color: #000000;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    color: #FFF;
+}
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+    color: #FFF;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: #00AA00;
+}
+
+.pause-btn {
+    background-color: #e2c404;
+}
+
+.stop-btn {
+    background-color: #AA0000;
+}
